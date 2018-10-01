@@ -1,0 +1,7 @@
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Manager Homework\Manager Homework\bin\Debug\Manager Homework.exe.config
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Manager Homework\Manager Homework\bin\Debug\Manager Homework.exe
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Manager Homework\Manager Homework\bin\Debug\Manager Homework.pdb
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Manager Homework\Manager Homework\obj\Debug\Manager Homework.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Manager Homework\Manager Homework\obj\Debug\Manager Homework.exe
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Manager Homework\Manager Homework\obj\Debug\Manager Homework.pdb
+C:\Users\Windows\Desktop\Seavus\C#\Homework\Manager Homework\Manager Homework\obj\Debug\Manager Homework.csprojAssemblyReference.cache
